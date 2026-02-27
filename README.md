@@ -15,6 +15,8 @@ If you wish to install your own version, customize workflows, or create new case
 2. Recreate your own Conda envrionment.
 3. Build your personal version/cases in this environment.
 
+Or you can just do 3. once module is loaded.
+
 _Be sure to adjust environment variables and dependencies as needed for your specific requirements._
 
 ## CESM - Specific Guidelines
