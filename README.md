@@ -32,7 +32,7 @@ Within these files, look for the section named **simple_linux**. It is recommend
 
 - **Directory Setup:** Use your designated scratch or project directories for storing case files.
 - **Documentation:** Refer to the official cluster guides for any environment specific setup steps.
-- **Troubleshooting:** If you encounter issues with modules or software bulds, consult the cluster's helpdesk or support documentaiton.
+- **Troubleshooting:** If you encounter issues with modules or software builds, consult the cluster's helpdesk or support documentaiton.
 
 ## Useful Online Resources
 
