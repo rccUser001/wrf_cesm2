@@ -1,5 +1,5 @@
 # Instructions for software usage on Midway2 and Midway3 Clusters
-These guidelines apply both clusters.
+These guidelines apply to both clusters.
 
 **To use WRF**
 - Run: ```module load wrf```
