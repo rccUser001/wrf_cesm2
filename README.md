@@ -32,4 +32,7 @@ Within these files, look for the section named **simple_linux**. It is recommend
 - **Documentation:** Refer to the official cluster guides for any environment specific setup steps.
 - **Troubleshooting:** If you encounter issues with modules or software bulds, consult the cluster's helpdesk or support documentaiton.
 
+## Useful Online Resources
 
+- [WRF Online Compilation Tutorial](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php)
+- [CESM Official Documentation](https://escomp.github.io/CESM/versions/cesm2.2/html/introduction.html)
