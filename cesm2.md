@@ -1,5 +1,5 @@
 
-# Instructions for installing CESM2 (as described in [^1])
+# Instructions for installing CESM2 (as described in [1])
 
 Follow these steps to install CESM2 based on the official documentation:
 
@@ -40,4 +40,4 @@ cd /scratch/midway3/$USER/cases/b.e20.B1850.f19_g17.test
 ```
 
 Reference
-[^1] [CESM2 Installation Guide](https://escomp.github.io/CESM/versions/cesm2.2/html/introduction.html). 
+[1] [CESM2 Installation Guide](https://escomp.github.io/CESM/versions/cesm2.2/html/introduction.html). 
