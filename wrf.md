@@ -17,6 +17,9 @@ Below are the summarized steps to build WRF exactly as outlined in [1].
 ### References
 
 [1] [WRF Official Compilation Tutorial](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php)
+
 [2] [Fortran Compiler Test Files](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compile_tutorial/tar_files/Fortran_C_tests.tar)
+
 [3] [Library Compatibility Test Files](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compile_tutorial/tar_files/Fortran_C_NETCDF_MPI_tests.tar)
+
 [4] [WRF Releases on GitHub](https://github.com/wrf-model/WRF/releases)
