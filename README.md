@@ -12,7 +12,7 @@ These guidelines apply to both clusters.
 If you wish to install your own version, customize workflows, or create new cases for either software:
 
 1. Export the Conda envrionment used.   
-   e.g., ```conda env export > environment.yml```
+   e.g., ```conda env export > environment.yml```.
    If necessary, be sure to consult the conda environment user guide.
 3. Recreate your own Conda envrionment.
 4. Build your personal version/cases in this environment.
