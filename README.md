@@ -12,7 +12,8 @@ These guidelines apply to both clusters.
 If you wish to install your own version, customize workflows, or create new cases for either software:
 
 1. Export the Conda envrionment used.   
-   ```conda env export > environment.yml```
+   e.g., ```conda env export > environment.yml```
+   If necessary, be sure to consult the conda environment user guide.
 3. Recreate your own Conda envrionment.
 4. Build your personal version/cases in this environment.
 
@@ -39,3 +40,4 @@ Within these files, look for the section named **simple_linux**. It is recommend
 
 - [WRF Online Compilation Tutorial](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php)
 - [CESM Official Documentation](https://escomp.github.io/CESM/versions/cesm2.2/html/introduction.html)
+- [Conda User Guide](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)
