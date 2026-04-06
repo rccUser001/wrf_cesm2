@@ -12,8 +12,9 @@ These guidelines apply to both clusters.
 If you wish to install your own version, customize workflows, or create new cases for either software:
 
 1. Export the Conda envrionment used.
-2. Recreate your own Conda envrionment.
-3. Build your personal version/cases in this environment.
+   ```conda env export > environment.yml```
+3. Recreate your own Conda envrionment.
+4. Build your personal version/cases in this environment.
 
 Or you can just do 3. once module is loaded.
 
